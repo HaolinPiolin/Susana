@@ -1,0 +1,67 @@
+.height100vh {
+    height: 100vh;
+}
+
+.height50vh {
+    height: 50vh;
+}
+
+.row {
+    --bs-gutter-x: 1;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.vertical-align {
+    padding-top: 40vh;
+}
+
+.vertical-align2 {
+    transform: translateY(25vh);
+}
+
+.espaciador-100px {
+    height: 100px;
+}
+
+.espaciador-50px {
+    height: 50px;
+}
+
+#features .container {
+    position: relative;
+    transform: translateY(15%);  
+}
+
+#features a {
+    color: #717171;
+    font-weight: 900;
+}
+
+#features img {
+    padding-bottom: 20px;
+}
+
+#contacto {
+    padding-top: 20vh;
+}
+
+#contacto .card {
+    padding: 50px 25px 100px 25px;
+}
+
+#formulario {
+    padding: 0 25px;
+}
+
+#textoFormulario {
+    padding: 0 50px;
+}
+
+#footer {
+    background-color: black;
+    height: 50vh;
+}
+
